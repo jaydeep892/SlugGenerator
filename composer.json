@@ -1,0 +1,17 @@
+{
+    "name": "mycompany/slug-generator",
+    "description": "this is for creating slug string from actual string",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mycompany\\SlugGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jacmac"
+        }
+    ],
+    "require": {}
+}
